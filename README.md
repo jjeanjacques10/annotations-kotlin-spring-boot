@@ -1,7 +1,7 @@
 ## Annotations Kotlin Spring Boot
 
 Repositório com exemplos de como utilizar as anotações do Spring Boot com Kotlin. Ele foi criado como material para o
-artigo [Como criar e usar Annotations em Kotlin no Spring Framework]()
+artigo [Como usar e criar Annotations em Kotlin no Spring Framework](https://jjeanjacques10.medium.com/como-usar-e-criar-annotations-em-kotlin-spring-framework-7bec90ea2ff2)
 
 ### Tecnologias
 
